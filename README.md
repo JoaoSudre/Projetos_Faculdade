@@ -3,7 +3,8 @@
 Lista de projetos em Java para a faculdade.
 ## Projetos Faculdade
 
-Lista de projetos da faculdade feitos no primeiro semestre;
+Lista de projetos da faculdade feitos no primeiro semestre.
+
 Linguagens usadas:
 
-- `Java`
+- - `Java`
